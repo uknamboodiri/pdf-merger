@@ -2,7 +2,7 @@
 
 Program to merge or water mark pdf files
 
-##Merge
+## Merge
 Usage:
 python merge.py <file1> <file2> <file3> <file4> ....
 
@@ -12,7 +12,7 @@ output:
 Example:
 python merge.py ./pdfs/dummy.pdf ./pdfs/twopage.pdf
 
-##water mark pdf files
+## water mark pdf files
 
 Usage:
 python water_mark.py <file_to_water_mark> <water_mark_template_file> 
